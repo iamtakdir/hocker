@@ -1,7 +1,7 @@
 # Hocker v1.0 beta
 ## A tool for lightweight recon 
 
-### Best for people who do regular stuff form mobile like using TERMUX . 
+#### Best for people who do regular stuff form mobile by using TERMUX and you can also save your data using Hocker . 
 
 ## Usage 
 
